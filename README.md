@@ -1,5 +1,5 @@
 # Piotr Lisowski
-### Skilled QA Engineer with experience in bulidig Cypress & Playwright for BDD, combined with strong TypeScript skills and a knack for business analysis.
+### Skilled QA Engineer with experience in bulidig **Cypress** & **Playwright** for **BDD**, combined with strong **TypeScript** skills and a knack for business analysis.
 
 ⤷ 10+ years of experience in outsourcing IT services for business. 
 
